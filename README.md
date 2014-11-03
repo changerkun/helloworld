@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-test
+just test
